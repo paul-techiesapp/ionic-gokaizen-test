@@ -1,0 +1,7 @@
+{
+  "name": "gokaizen-ble",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
